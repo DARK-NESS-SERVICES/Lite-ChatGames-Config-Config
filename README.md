@@ -1,6 +1,6 @@
 # 📘 AxPlayerWarps - Documentación
 
-Bienvenido a la documentación oficial de **AxPlayerWarps**, una configuración personalizada para el plugin PlayerWarps. Aquí aprenderás a instalar, configurar y personalizar completamente tu sistema de warps de jugadores.
+Bienvenido a la documentación oficial de **LiteChatGames Config**, una configuración personalizada para el plugin PlayerWarps. Aquí aprenderás a instalar, configurar y personalizar completamente tu sistema de warps de jugadores.
 
 ---
 
